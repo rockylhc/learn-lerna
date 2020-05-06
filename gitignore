@@ -1,0 +1,14 @@
+/node_modules
+
+# Mac desktop service store files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+#IDE files
+.idea
